@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/course/</link>
+      <atom:link href="https://ghpc.github.io/course/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Nov 2020 10:18:55 -0300</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Courses</title>
+      <link>https://ghpc.github.io/course/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/ads/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/ads/</guid>
+      <description>&lt;p&gt;This is an introductory course on algorithms and data structures. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if672/home?authuser=0&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/ifm/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/ifm/</guid>
+      <description>&lt;p&gt;This is an introductory course on formal methods using the B-method. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if721/home&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/ipa/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/ipa/</guid>
+      <description>&lt;p&gt;This is an introductory course on proof assistants using Coq. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if722/home&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/others/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/others/</guid>
+      <description>&lt;p&gt;Previous teaching experience:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[2018 &amp;ndash; 2018] Discrete mathematics @ CIn-UFPE&lt;/li&gt;
+&lt;li&gt;[2015 &amp;ndash; 2017] Software analysis and design @ UPE&lt;/li&gt;
+&lt;li&gt;[2010 &amp;ndash; 2014] Experimental software engineering @ UPE&lt;/li&gt;
+&lt;li&gt;[2010 &amp;ndash; 2013] Introduction to the scientific method @ UPE&lt;/li&gt;
+&lt;li&gt;[2008 &amp;ndash; 2017] Compilers @ UPE&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

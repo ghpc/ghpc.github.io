@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Cabral | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/rafael-cabral/</link>
+      <atom:link href="https://ghpc.github.io/author/rafael-cabral/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael Cabral</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Rafael Cabral</title>
+      <link>https://ghpc.github.io/author/rafael-cabral/</link>
+    </image>
+    
+    <item>
+      <title>A Formal Analysis of Concurrent Assembly Code based on CSP</title>
+      <link>https://ghpc.github.io/publication/carvalho-assembly-csp/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-assembly-csp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

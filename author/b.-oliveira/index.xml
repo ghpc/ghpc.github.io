@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Oliveira | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/b.-oliveira/</link>
+      <atom:link href="https://ghpc.github.io/author/b.-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Oliveira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>B. Oliveira</title>
+      <link>https://ghpc.github.io/author/b.-oliveira/</link>
+    </image>
+    
+    <item>
+      <title>Simulation of hybrid systems from natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

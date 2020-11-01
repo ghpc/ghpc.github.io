@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Cesar F. Silva | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/bruno-cesar-f.-silva/</link>
+      <atom:link href="https://ghpc.github.io/author/bruno-cesar-f.-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruno Cesar F. Silva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Bruno Cesar F. Silva</title>
+      <link>https://ghpc.github.io/author/bruno-cesar-f.-silva/</link>
+    </image>
+    
+    <item>
+      <title>CPN simulation-based test case generation from controlled natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-scp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Case Generation from Natural Language Requirements Using CPN Simulation</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-sbmf/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-sbmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

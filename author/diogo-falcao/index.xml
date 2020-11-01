@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diogo Falcão | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/diogo-falcao/</link>
+      <atom:link href="https://ghpc.github.io/author/diogo-falcao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diogo Falcão</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Diogo Falcão</title>
+      <link>https://ghpc.github.io/author/diogo-falcao/</link>
+    </image>
+    
+    <item>
+      <title>Test Case Generation from Natural Language Requirements Based on SCR Specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-sac/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-sac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process Algebra Based Strategy for Generating Test Vectors from SCR Specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cspsharp-sbmf/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cspsharp-sbmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

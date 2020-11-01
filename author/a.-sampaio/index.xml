@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Sampaio | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/a.-sampaio/</link>
+      <atom:link href="https://ghpc.github.io/author/a.-sampaio/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Sampaio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>A. Sampaio</title>
+      <link>https://ghpc.github.io/author/a.-sampaio/</link>
+    </image>
+    
+    <item>
+      <title>A Process for Sound Conformance Testing of Cyber-Physical Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-process-icstw/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-process-icstw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of hybrid systems from natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

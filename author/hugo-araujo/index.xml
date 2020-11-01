@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Araujo | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/hugo-araujo/</link>
+      <atom:link href="https://ghpc.github.io/author/hugo-araujo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Araujo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Hugo Araujo</title>
+      <link>https://ghpc.github.io/author/hugo-araujo/</link>
+    </image>
+    
+    <item>
+      <title>Multi-objective Search for Effective Testing of Cyber-Physical Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-search-sefm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-search-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound conformance testing for cyber-physical systems: Theory and implementation</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-conftesting-scp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-conftesting-scp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

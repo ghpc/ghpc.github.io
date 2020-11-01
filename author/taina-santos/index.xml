@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tainã Santos | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/taina-santos/</link>
+      <atom:link href="https://ghpc.github.io/author/taina-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tainã Santos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Tainã Santos</title>
+      <link>https://ghpc.github.io/author/taina-santos/</link>
+    </image>
+    
+    <item>
+      <title>Formal Modelling of Environment Restrictions from Natural-Language Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-environment-sbmf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-environment-sbmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

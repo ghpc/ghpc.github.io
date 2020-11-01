@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juliano Iyoda | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/juliano-iyoda/</link>
+      <atom:link href="https://ghpc.github.io/author/juliano-iyoda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juliano Iyoda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Juliano Iyoda</title>
+      <link>https://ghpc.github.io/author/juliano-iyoda/</link>
+    </image>
+    
+    <item>
+      <title>Model Checking Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-requirements-modelchecking-sbmf/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-requirements-modelchecking-sbmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

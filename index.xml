@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/</link>
+      <atom:link href="https://ghpc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gustavo Carvalho</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Gustavo Carvalho</title>
+      <link>https://ghpc.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Validating, verifying and testing timed data-flow reactive systems in Coq from controlled natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-coq-scp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-coq-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotic Testing</title>
+      <link>https://ghpc.github.io/project/robotictesting/</link>
+      <pubDate>Sun, 01 Nov 2020 10:30:45 -0300</pubDate>
+      <guid>https://ghpc.github.io/project/robotictesting/</guid>
+      <description>&lt;p&gt;In this project, we are developing a CNL for supporting the specification of test cases of mobile devices, which are performed with the aid of robotic arms. This project involves confidential information, which cannot be revealed at this moment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Roboworld</title>
+      <link>https://ghpc.github.io/project/roboworld/</link>
+      <pubDate>Sun, 01 Nov 2020 10:30:33 -0300</pubDate>
+      <guid>https://ghpc.github.io/project/roboworld/</guid>
+      <description>&lt;p&gt;RoboWorld is a controlled natural language (CNL) for the specification of environment and platform assumptions with a precise semantics in the context of the &lt;a href=&#34;https://www.cs.york.ac.uk/robostar/&#34; target=&#34;_blank&#34;&gt;RoboStar technology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The CNL is being defined using the &lt;a href=&#34;https://www.grammaticalframework.org/&#34; target=&#34;_blank&#34;&gt;Grammatical Framework&lt;/a&gt;. The formal semantics of the CNL is given using the process algebra CSP (Communicating Sequential Processes), which is automatically derived from the textual specification.&lt;/p&gt;
+&lt;p&gt;In what follows, one can read some sentences that can be written in the CNL:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The initial orientation of the robot is towards the target.&lt;/li&gt;
+&lt;li&gt;The nest has an x-width of 0.25 m and a y-width of 0.25 m.&lt;/li&gt;
+&lt;li&gt;The distance from the nest to the source is greater than 1 m.&lt;/li&gt;
+&lt;li&gt;Some locations, except the source and the nest, contain 1 obstacles.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/ads/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/ads/</guid>
+      <description>&lt;p&gt;This is an introductory course on algorithms and data structures. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if672/home?authuser=0&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/ifm/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/ifm/</guid>
+      <description>&lt;p&gt;This is an introductory course on formal methods using the B-method. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if721/home&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/ipa/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/ipa/</guid>
+      <description>&lt;p&gt;This is an introductory course on proof assistants using Coq. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if722/home&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ghpc.github.io/course/others/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/course/others/</guid>
+      <description>&lt;p&gt;Previous teaching experience:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[2018 &amp;ndash; 2018] Discrete mathematics @ CIn-UFPE&lt;/li&gt;
+&lt;li&gt;[2015 &amp;ndash; 2017] Software analysis and design @ UPE&lt;/li&gt;
+&lt;li&gt;[2010 &amp;ndash; 2014] Experimental software engineering @ UPE&lt;/li&gt;
+&lt;li&gt;[2010 &amp;ndash; 2013] Introduction to the scientific method @ UPE&lt;/li&gt;
+&lt;li&gt;[2008 &amp;ndash; 2017] Compilers @ UPE&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NAT2TEST</title>
+      <link>https://ghpc.github.io/project/nat2test/</link>
+      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
+      <guid>https://ghpc.github.io/project/nat2test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPN simulation-based test case generation from controlled natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-scp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Search for Effective Testing of Cyber-Physical Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-search-sefm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-search-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Modelling of Environment Restrictions from Natural-Language Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-environment-sbmf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-environment-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound conformance testing for cyber-physical systems: Theory and implementation</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-conftesting-scp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-conftesting-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process for Sound Conformance Testing of Cyber-Physical Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-process-icstw/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-process-icstw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDR: From Theory to Industrial Application</title>
+      <link>https://ghpc.github.io/publication/carvalho-fdr-industry-roscoe/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-fdr-industry-roscoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of hybrid systems from natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling timed reactive systems from natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-dfrs-faoc/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-dfrs-faoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Checking Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-requirements-modelchecking-sbmf/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-requirements-modelchecking-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Case Generation from Natural Language Requirements Using CPN Simulation</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-sbmf/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAT2TEST Tool: From Natural Language Requirements to Test Cases Based on CSP</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-tool-sefm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-tool-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model for Natural-Language Timed Requirements of Reactive Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-dfrs-icfem/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-dfrs-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Testing from Controlled Natural Language Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-imr-icfem/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-imr-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAT2TEST$_SCR$: Test case generation from natural language requirements based on SCR specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-scp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A CSP Timed Input-Output Relation and a Strategy for Mechanised Conformance Verification</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cspio-icfem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cspio-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Case Generation from Natural Language Requirements Based on SCR Specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-sac/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-sac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Analysis of Concurrent Assembly Code based on CSP</title>
+      <link>https://ghpc.github.io/publication/carvalho-assembly-csp/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-assembly-csp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process Algebra Based Strategy for Generating Test Vectors from SCR Specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cspsharp-sbmf/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cspsharp-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analytical and Experimental Comparison of CSP Extensions and Tools</title>
+      <link>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-icfem/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Comparison of Refinement Checkers</title>
+      <link>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-sbmf/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appointments</title>
+      <link>https://ghpc.github.io/appointments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/appointments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://ghpc.github.io/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ghpc.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://ghpc.github.io/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://ghpc.github.io/supervision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ghpc.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

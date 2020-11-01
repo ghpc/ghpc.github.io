@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/publication-type/2/</link>
+      <atom:link href="https://ghpc.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>2</title>
+      <link>https://ghpc.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Validating, verifying and testing timed data-flow reactive systems in Coq from controlled natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-coq-scp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-coq-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPN simulation-based test case generation from controlled natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-scp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound conformance testing for cyber-physical systems: Theory and implementation</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-conftesting-scp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-conftesting-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling timed reactive systems from natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-dfrs-faoc/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-dfrs-faoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAT2TEST$_SCR$: Test case generation from natural language requirements based on SCR specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-scp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-scp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

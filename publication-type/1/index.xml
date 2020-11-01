@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/publication-type/1/</link>
+      <atom:link href="https://ghpc.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>1</title>
+      <link>https://ghpc.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Multi-objective Search for Effective Testing of Cyber-Physical Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-search-sefm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-search-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Modelling of Environment Restrictions from Natural-Language Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-environment-sbmf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-environment-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process for Sound Conformance Testing of Cyber-Physical Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-cps-process-icstw/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cps-process-icstw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDR: From Theory to Industrial Application</title>
+      <link>https://ghpc.github.io/publication/carvalho-fdr-industry-roscoe/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-fdr-industry-roscoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of hybrid systems from natural-language requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-hnat-2-test-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Checking Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-requirements-modelchecking-sbmf/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-requirements-modelchecking-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Case Generation from Natural Language Requirements Using CPN Simulation</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-sbmf/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cpn-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAT2TEST Tool: From Natural Language Requirements to Test Cases Based on CSP</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-tool-sefm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-tool-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model for Natural-Language Timed Requirements of Reactive Systems</title>
+      <link>https://ghpc.github.io/publication/carvalho-dfrs-icfem/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-dfrs-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Testing from Controlled Natural Language Requirements</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-imr-icfem/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-imr-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A CSP Timed Input-Output Relation and a Strategy for Mechanised Conformance Verification</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cspio-icfem/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cspio-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Case Generation from Natural Language Requirements Based on SCR Specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-sac/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-scr-sac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Analysis of Concurrent Assembly Code based on CSP</title>
+      <link>https://ghpc.github.io/publication/carvalho-assembly-csp/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-assembly-csp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Process Algebra Based Strategy for Generating Test Vectors from SCR Specifications</title>
+      <link>https://ghpc.github.io/publication/carvalho-nat-2-test-cspsharp-sbmf/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-nat-2-test-cspsharp-sbmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analytical and Experimental Comparison of CSP Extensions and Tools</title>
+      <link>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-icfem/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Comparison of Refinement Checkers</title>
+      <link>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-sbmf/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-cspm-cspsharp-sbmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
