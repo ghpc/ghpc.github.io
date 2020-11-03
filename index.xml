@@ -41,7 +41,7 @@
 &lt;li&gt;The initial orientation of the robot is towards the target.&lt;/li&gt;
 &lt;li&gt;The nest has an x-width of 0.25 m and a y-width of 0.25 m.&lt;/li&gt;
 &lt;li&gt;The distance from the nest to the source is greater than 1 m.&lt;/li&gt;
-&lt;li&gt;Some locations, except the source and the nest, contain 1 obstacles.&lt;/li&gt;
+&lt;li&gt;Some locations, except the source and the nest, contain 2 obstacles.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
