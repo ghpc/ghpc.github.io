@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breno Miranda | Gustavo Carvalho</title>
+    <link>https://ghpc.github.io/author/breno-miranda/</link>
+      <atom:link href="https://ghpc.github.io/author/breno-miranda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Breno Miranda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ghpc.github.io/media/ghpc.jpeg</url>
+      <title>Breno Miranda</title>
+      <link>https://ghpc.github.io/author/breno-miranda/</link>
+    </image>
+    
+    <item>
+      <title>A Systematic Mapping Study on Robotic Testing of Mobile Devices</title>
+      <link>https://ghpc.github.io/publication/carvalho-sms-robotic-mobile-testing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-sms-robotic-mobile-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

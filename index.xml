@@ -5,12 +5,36 @@
     <link>https://ghpc.github.io/</link>
       <atom:link href="https://ghpc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Gustavo Carvalho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ghpc.github.io/media/ghpc.jpeg</url>
       <title>Gustavo Carvalho</title>
       <link>https://ghpc.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Systematic Mapping Study on Robotic Testing of Mobile Devices</title>
+      <link>https://ghpc.github.io/publication/carvalho-sms-robotic-mobile-testing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/carvalho-sms-robotic-mobile-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoboStar Technology: A Roboticist&#39;s Toolbox for Combined Proof, Simulation, and Testing</title>
+      <link>https://ghpc.github.io/publication/cavalcanti-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/cavalcanti-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoboWorld: Where Can My Robot Work?</title>
+      <link>https://ghpc.github.io/publication/cavalcanti-sefm-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/cavalcanti-sefm-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Validating, verifying and testing timed data-flow reactive systems in Coq from controlled natural-language requirements</title>
@@ -21,7 +45,7 @@
     </item>
     
     <item>
-      <title>Robotic Testing</title>
+      <title>Robotic Mobile Testing</title>
       <link>https://ghpc.github.io/project/robotictesting/</link>
       <pubDate>Sun, 01 Nov 2020 10:30:45 -0300</pubDate>
       <guid>https://ghpc.github.io/project/robotictesting/</guid>
@@ -42,49 +66,6 @@
 &lt;li&gt;The nest has an x-width of 0.25 m and a y-width of 0.25 m.&lt;/li&gt;
 &lt;li&gt;The distance from the nest to the source is greater than 1 m.&lt;/li&gt;
 &lt;li&gt;Some locations, except the source and the nest, contain 2 obstacles.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ghpc.github.io/course/ads/</link>
-      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
-      <guid>https://ghpc.github.io/course/ads/</guid>
-      <description>&lt;p&gt;This is an introductory course on algorithms and data structures. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if672/home?authuser=0&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ghpc.github.io/course/ifm/</link>
-      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
-      <guid>https://ghpc.github.io/course/ifm/</guid>
-      <description>&lt;p&gt;This is an introductory course on formal methods using the B-method. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if721/home&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ghpc.github.io/course/ipa/</link>
-      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
-      <guid>https://ghpc.github.io/course/ipa/</guid>
-      <description>&lt;p&gt;This is an introductory course on proof assistants using Coq. More details are available at the course &lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/if722/home&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; (in PT-BR | restricted to users @ cin.ufpe.br).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ghpc.github.io/course/others/</link>
-      <pubDate>Sun, 01 Nov 2020 10:18:55 -0300</pubDate>
-      <guid>https://ghpc.github.io/course/others/</guid>
-      <description>&lt;p&gt;Previous teaching experience:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[2018 &amp;ndash; 2018] Discrete mathematics @ CIn-UFPE&lt;/li&gt;
-&lt;li&gt;[2015 &amp;ndash; 2017] Software analysis and design @ UPE&lt;/li&gt;
-&lt;li&gt;[2010 &amp;ndash; 2014] Experimental software engineering @ UPE&lt;/li&gt;
-&lt;li&gt;[2010 &amp;ndash; 2013] Introduction to the scientific method @ UPE&lt;/li&gt;
-&lt;li&gt;[2008 &amp;ndash; 2017] Compilers @ UPE&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

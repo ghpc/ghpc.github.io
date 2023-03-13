@@ -5,12 +5,28 @@
     <link>https://ghpc.github.io/author/ana-cavalcanti/</link>
       <atom:link href="https://ghpc.github.io/author/ana-cavalcanti/index.xml" rel="self" type="application/rss+xml" />
     <description>Ana Cavalcanti</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ghpc.github.io/media/ghpc.jpeg</url>
       <title>Ana Cavalcanti</title>
       <link>https://ghpc.github.io/author/ana-cavalcanti/</link>
     </image>
+    
+    <item>
+      <title>RoboStar Technology: A Roboticist&#39;s Toolbox for Combined Proof, Simulation, and Testing</title>
+      <link>https://ghpc.github.io/publication/cavalcanti-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/cavalcanti-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoboWorld: Where Can My Robot Work?</title>
+      <link>https://ghpc.github.io/publication/cavalcanti-sefm-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/cavalcanti-sefm-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modelling timed reactive systems from natural-language requirements</title>

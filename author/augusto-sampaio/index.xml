@@ -5,12 +5,20 @@
     <link>https://ghpc.github.io/author/augusto-sampaio/</link>
       <atom:link href="https://ghpc.github.io/author/augusto-sampaio/index.xml" rel="self" type="application/rss+xml" />
     <description>Augusto Sampaio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ghpc.github.io/media/ghpc.jpeg</url>
       <title>Augusto Sampaio</title>
       <link>https://ghpc.github.io/author/augusto-sampaio/</link>
     </image>
+    
+    <item>
+      <title>RoboStar Technology: A Roboticist&#39;s Toolbox for Combined Proof, Simulation, and Testing</title>
+      <link>https://ghpc.github.io/publication/cavalcanti-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ghpc.github.io/publication/cavalcanti-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CPN simulation-based test case generation from controlled natural-language requirements</title>
